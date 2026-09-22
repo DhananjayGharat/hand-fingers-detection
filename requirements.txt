@@ -1,0 +1,4 @@
+# Hand Detection & Finger Tracking Dependencies
+# Note: mediapipe is pinned to <=0.10.14 to ensure compatibility with mp.solutions.hands
+opencv-python>=4.8.0
+mediapipe>=0.10.9,<=0.10.14
