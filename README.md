@@ -92,7 +92,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/hand-fingers-detection.git
+git clone https://github.com/DhananjayGharat/hand-fingers-detection.git
 cd hand-fingers-detection
 ```
 
